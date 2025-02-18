@@ -37,7 +37,7 @@ import java.util.*;
 @Order(1)
 public class S2VisitsDemo extends S2BaseDemo {
 
-    public static final String AGENT_NAME = "超音数分析助手";
+    public static final String AGENT_NAME = "数据分析助手";
 
     public void doRun() {
         try {

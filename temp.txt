@@ -1,0 +1,159 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] common
+[INFO] auth-api
+[INFO] auth-authentication
+[INFO] auth-authorization
+[INFO] auth
+[INFO] headless-api
+[INFO] chat-api
+[INFO] headless-core
+[INFO] headless-chat
+[INFO] headless-server
+[INFO] chat-server
+[INFO] chat
+[INFO] launchers-common
+[INFO] launchers-chat
+[INFO] launchers-headless
+[INFO] launchers-standalone
+[INFO] launchers
+[INFO] headless
+[INFO] supersonic
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/codehaus/mojo/build-helper-maven-plugin/3.4.0/build-helper-maven-plugin-3.4.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/codehaus/mojo/build-helper-maven-plugin/3.4.0/build-helper-maven-plugin-3.4.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/codehaus/mojo/build-helper-maven-plugin/3.4.0/build-helper-maven-plugin-3.4.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:3.4.0: Plugin org.codehaus.mojo:build-helper-maven-plugin:3.4.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:build-helper-maven-plugin:jar:3.4.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/flywaydb/flyway-maven-plugin/9.22.3/flyway-maven-plugin-9.22.3.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/flywaydb/flyway-maven-plugin/9.22.3/flyway-maven-plugin-9.22.3.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/flywaydb/flyway-maven-plugin/9.22.3/flyway-maven-plugin-9.22.3.pom
+[WARNING] Failed to retrieve plugin descriptor for org.flywaydb:flyway-maven-plugin:9.22.3: Plugin org.flywaydb:flyway-maven-plugin:9.22.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.flywaydb:flyway-maven-plugin:jar:9.22.3
+Downloading: https://repo.ctbiyi.com/repository/maven-public/io/github/git-commit-id/git-commit-id-maven-plugin/6.0.0/git-commit-id-maven-plugin-6.0.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/io/github/git-commit-id/git-commit-id-maven-plugin/6.0.0/git-commit-id-maven-plugin-6.0.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/io/github/git-commit-id/git-commit-id-maven-plugin/6.0.0/git-commit-id-maven-plugin-6.0.0.pom
+[WARNING] Failed to retrieve plugin descriptor for io.github.git-commit-id:git-commit-id-maven-plugin:6.0.0: Plugin io.github.git-commit-id:git-commit-id-maven-plugin:6.0.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for io.github.git-commit-id:git-commit-id-maven-plugin:jar:6.0.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/jooq/jooq-codegen-maven/3.18.13/jooq-codegen-maven-3.18.13.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/jooq/jooq-codegen-maven/3.18.13/jooq-codegen-maven-3.18.13.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/jooq/jooq-codegen-maven/3.18.13/jooq-codegen-maven-3.18.13.pom
+[WARNING] Failed to retrieve plugin descriptor for org.jooq:jooq-codegen-maven:3.18.13: Plugin org.jooq:jooq-codegen-maven:3.18.13 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.jooq:jooq-codegen-maven:jar:3.18.13
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/jetbrains/kotlin/kotlin-maven-plugin/1.9.23/kotlin-maven-plugin-1.9.23.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/jetbrains/kotlin/kotlin-maven-plugin/1.9.23/kotlin-maven-plugin-1.9.23.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/jetbrains/kotlin/kotlin-maven-plugin/1.9.23/kotlin-maven-plugin-1.9.23.pom
+[WARNING] Failed to retrieve plugin descriptor for org.jetbrains.kotlin:kotlin-maven-plugin:1.9.23: Plugin org.jetbrains.kotlin:kotlin-maven-plugin:1.9.23 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.jetbrains.kotlin:kotlin-maven-plugin:jar:1.9.23
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/liquibase/liquibase-maven-plugin/4.24.0/liquibase-maven-plugin-4.24.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/liquibase/liquibase-maven-plugin/4.24.0/liquibase-maven-plugin-4.24.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/liquibase/liquibase-maven-plugin/4.24.0/liquibase-maven-plugin-4.24.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.liquibase:liquibase-maven-plugin:4.24.0: Plugin org.liquibase:liquibase-maven-plugin:4.24.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.liquibase:liquibase-maven-plugin:jar:4.24.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-antrun-plugin/3.1.0/maven-antrun-plugin-3.1.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-antrun-plugin/3.1.0/maven-antrun-plugin-3.1.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-antrun-plugin/3.1.0/maven-antrun-plugin-3.1.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-antrun-plugin:3.1.0: Plugin org.apache.maven.plugins:maven-antrun-plugin:3.1.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-antrun-plugin:jar:3.1.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-assembly-plugin/3.6.0/maven-assembly-plugin-3.6.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-assembly-plugin/3.6.0/maven-assembly-plugin-3.6.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-assembly-plugin/3.6.0/maven-assembly-plugin-3.6.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-assembly-plugin:3.6.0: Plugin org.apache.maven.plugins:maven-assembly-plugin:3.6.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-assembly-plugin:jar:3.6.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-dependency-plugin/3.6.1/maven-dependency-plugin-3.6.1.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-dependency-plugin/3.6.1/maven-dependency-plugin-3.6.1.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-dependency-plugin/3.6.1/maven-dependency-plugin-3.6.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-dependency-plugin:3.6.1: Plugin org.apache.maven.plugins:maven-dependency-plugin:3.6.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-dependency-plugin:jar:3.6.1
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-release-plugin:2.3.2: Plugin org.apache.maven.plugins:maven-release-plugin:2.3.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-release-plugin:jar:2.3.2
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-enforcer-plugin:3.4.1: Plugin org.apache.maven.plugins:maven-enforcer-plugin:3.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-enforcer-plugin:jar:3.4.1
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-failsafe-plugin/3.1.2/maven-failsafe-plugin-3.1.2.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-failsafe-plugin/3.1.2/maven-failsafe-plugin-3.1.2.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-failsafe-plugin/3.1.2/maven-failsafe-plugin-3.1.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-failsafe-plugin:3.1.2: Plugin org.apache.maven.plugins:maven-failsafe-plugin:3.1.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-failsafe-plugin:jar:3.1.2
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-help-plugin/3.4.0/maven-help-plugin-3.4.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-help-plugin/3.4.0/maven-help-plugin-3.4.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-help-plugin/3.4.0/maven-help-plugin-3.4.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:3.4.0: Plugin org.apache.maven.plugins:maven-help-plugin:3.4.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-help-plugin:jar:3.4.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-invoker-plugin/3.6.0/maven-invoker-plugin-3.6.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-invoker-plugin/3.6.0/maven-invoker-plugin-3.6.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-invoker-plugin/3.6.0/maven-invoker-plugin-3.6.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-invoker-plugin:3.6.0: Plugin org.apache.maven.plugins:maven-invoker-plugin:3.6.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-invoker-plugin:jar:3.6.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-javadoc-plugin/3.6.3/maven-javadoc-plugin-3.6.3.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-javadoc-plugin/3.6.3/maven-javadoc-plugin-3.6.3.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-javadoc-plugin/3.6.3/maven-javadoc-plugin-3.6.3.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-javadoc-plugin:3.6.3: Plugin org.apache.maven.plugins:maven-javadoc-plugin:3.6.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-javadoc-plugin:jar:3.6.3
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-shade-plugin/3.5.2/maven-shade-plugin-3.5.2.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-shade-plugin/3.5.2/maven-shade-plugin-3.5.2.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-shade-plugin/3.5.2/maven-shade-plugin-3.5.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-shade-plugin:3.5.2: Plugin org.apache.maven.plugins:maven-shade-plugin:3.5.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-shade-plugin:jar:3.5.2
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-source-plugin/3.3.0/maven-source-plugin-3.3.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-source-plugin/3.3.0/maven-source-plugin-3.3.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-source-plugin/3.3.0/maven-source-plugin-3.3.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-source-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-source-plugin:3.3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-source-plugin:jar:3.3.0
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/sonarsource/scanner/maven/sonar-maven-plugin/3.6.0.1398/sonar-maven-plugin-3.6.0.1398.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/sonarsource/scanner/maven/sonar-maven-plugin/3.6.0.1398/sonar-maven-plugin-3.6.0.1398.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/sonarsource/scanner/maven/sonar-maven-plugin/3.6.0.1398/sonar-maven-plugin-3.6.0.1398.pom
+[WARNING] Failed to retrieve plugin descriptor for org.sonarsource.scanner.maven:sonar-maven-plugin:3.6.0.1398: Plugin org.sonarsource.scanner.maven:sonar-maven-plugin:3.6.0.1398 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.sonarsource.scanner.maven:sonar-maven-plugin:jar:3.6.0.1398
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/graalvm/buildtools/native-maven-plugin/0.9.28/native-maven-plugin-0.9.28.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/graalvm/buildtools/native-maven-plugin/0.9.28/native-maven-plugin-0.9.28.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/graalvm/buildtools/native-maven-plugin/0.9.28/native-maven-plugin-0.9.28.pom
+[WARNING] Failed to retrieve plugin descriptor for org.graalvm.buildtools:native-maven-plugin:0.9.28: Plugin org.graalvm.buildtools:native-maven-plugin:0.9.28 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.graalvm.buildtools:native-maven-plugin:jar:0.9.28
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/codehaus/mojo/versions-maven-plugin/2.16.2/versions-maven-plugin-2.16.2.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/codehaus/mojo/versions-maven-plugin/2.16.2/versions-maven-plugin-2.16.2.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/codehaus/mojo/versions-maven-plugin/2.16.2/versions-maven-plugin-2.16.2.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:versions-maven-plugin:2.16.2: Plugin org.codehaus.mojo:versions-maven-plugin:2.16.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:versions-maven-plugin:jar:2.16.2
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/codehaus/mojo/xml-maven-plugin/1.1.0/xml-maven-plugin-1.1.0.pom
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/codehaus/mojo/xml-maven-plugin/1.1.0/xml-maven-plugin-1.1.0.pom
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/codehaus/mojo/xml-maven-plugin/1.1.0/xml-maven-plugin-1.1.0.pom
+[WARNING] Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.1.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:xml-maven-plugin:jar:1.1.0
+Downloading: https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.ctbiyi.com/repository/maven-public/org/codehaus/mojo/maven-metadata.xml
+Downloading: https://repo.ctbiyi.com/repository/maven-central/org/codehaus/mojo/maven-metadata.xml
+Downloading: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/codehaus/mojo/maven-metadata.xml
+Downloading: https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/org/codehaus/mojo/maven-metadata.xml
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to nexus-public (https://repo.ctbiyi.com/repository/maven-public/): Connect to repo.ctbiyi.com:443 [repo.ctbiyi.com/192.168.226.65] failed: Connection timed out: connect
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to central (https://repo.ctbiyi.com/repository/maven-central/): Connect to repo.ctbiyi.com:443 [repo.ctbiyi.com/192.168.226.65] failed: Connection timed out: connect
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to rdc-releases (https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/): Access denied to: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/apache/maven/plugins/maven-metadata.xml , ReasonPhrase:Forbidden.
+[WARNING] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to rdc-snapshots (https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/): Access denied to: https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/org/apache/maven/plugins/maven-metadata.xml , ReasonPhrase:Forbidden.
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to nexus-public (https://repo.ctbiyi.com/repository/maven-public/): Connect to repo.ctbiyi.com:443 [repo.ctbiyi.com/192.168.226.65] failed: Connection timed out: connect
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to central (https://repo.ctbiyi.com/repository/maven-central/): Connect to repo.ctbiyi.com:443 [repo.ctbiyi.com/192.168.226.65] failed: Connection timed out: connect
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to rdc-releases (https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/): Access denied to: https://repo.rdc.aliyun.com/repository/125022-release-PnmiLA/org/codehaus/mojo/maven-metadata.xml , ReasonPhrase:Forbidden.
+[WARNING] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to rdc-snapshots (https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/): Access denied to: https://repo.rdc.aliyun.com/repository/125022-snapshot-4ZOj7C/org/codehaus/mojo/maven-metadata.xml , ReasonPhrase:Forbidden.
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] common ............................................. SKIPPED
+[INFO] auth-api ........................................... SKIPPED
+[INFO] auth-authentication ................................ SKIPPED
+[INFO] auth-authorization ................................. SKIPPED
+[INFO] auth ............................................... SKIPPED
+[INFO] headless-api ....................................... SKIPPED
+[INFO] chat-api ........................................... SKIPPED
+[INFO] headless-core ...................................... SKIPPED
+[INFO] headless-chat ...................................... SKIPPED
+[INFO] headless-server .................................... SKIPPED
+[INFO] chat-server ........................................ SKIPPED
+[INFO] chat ............................................... SKIPPED
+[INFO] launchers-common ................................... SKIPPED
+[INFO] launchers-chat ..................................... SKIPPED
+[INFO] launchers-headless ................................. SKIPPED
+[INFO] launchers-standalone ............................... SKIPPED
+[INFO] launchers .......................................... SKIPPED
+[INFO] headless ........................................... SKIPPED
+[INFO] supersonic ......................................... SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 15:20 min
+[INFO] Finished at: 2025-02-18T14:37:02+08:00
+[INFO] Final Memory: 255M/2475M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Plugin org.apache.maven.plugins:maven-help-plugin:3.4.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-help-plugin:jar:3.4.0: Failure to transfer org.apache.maven.plugins:maven-help-plugin:pom:3.4.0 from https://repo.ctbiyi.com/repository/maven-public/ was cached in the local repository, resolution will not be reattempted until the update interval of nexus-public has elapsed or updates are forced. Original error: Could not transfer artifact org.apache.maven.plugins:maven-help-plugin:pom:3.4.0 from/to nexus-public (https://repo.ctbiyi.com/repository/maven-public/): Connect to repo.ctbiyi.com:443 [repo.ctbiyi.com/192.168.226.65] failed: Connection timed out: connect -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginResolutionException
